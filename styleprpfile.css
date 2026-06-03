@@ -173,7 +173,6 @@ th, td {
     border-radius: 16px;
     padding: 24px 10px;
     box-shadow: 0 4px 16px rgba(0, 0, 0, 0.15);
-    font-weight: bolder;
 }
 
 #goal-title {
@@ -182,6 +181,7 @@ th, td {
     margin: auto ;
     padding: 2px 8px;
     box-sizing: border-box;
+    font-weight: bolder;
 }
 
 #goal-text {
